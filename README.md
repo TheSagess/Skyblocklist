@@ -1,2 +1,3 @@
-# Skyblocklist
-Module for interaction with the skyblock list api
+# Skyblock list 
+
+- this is the module which interacts with the scammer list api lol.
